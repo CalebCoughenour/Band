@@ -6,3 +6,19 @@
   font-weight: bolder;
   font-style: italic;
 }
+
+.sidebarright {
+  width: 30%;
+  float: right;
+  background-color: teal;
+}
+
+.sidebarleft {
+  width: 30%;
+  float: right;
+  color: teal;
+}
+
+body {
+  background-color: gray;
+}
