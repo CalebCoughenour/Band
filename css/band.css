@@ -8,15 +8,23 @@
 }
 
 .sidebarright {
-  width: 30%;
+  width: 15%;
+  padding: 10px;
+  border: solid black;
+  border-width: 8px;
   float: right;
   background-color: teal;
+  margin: 3px;
+  box-sizing: border-box;
 }
 
 .sidebarleft {
-  width: 30%;
+  width: 25%;
   float: left;
   background-color: teal;
+  border: solid black;
+  border-width: 8pxs;
+  margin-right: 15px;
 }
 
 body {
@@ -24,5 +32,6 @@ body {
 }
 
 img {
+  border: solid black;
   float: left;
 }
