@@ -15,8 +15,8 @@
 
 .sidebarleft {
   width: 30%;
-  float: right;
-  color: teal;
+  float: left;
+  background-color: teal;
 }
 
 body {
