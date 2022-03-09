@@ -14,7 +14,7 @@
   border-width: 8px;
   float: right;
   background-color: teal;
-  margin: 3px;
+  margin-left: 10px;
   box-sizing: border-box;
 }
 
@@ -23,8 +23,10 @@
   float: left;
   background-color: teal;
   border: solid black;
-  border-width: 8pxs;
+  border-width: 7px;
   margin-right: 15px;
+  box-sizing: border-box;
+  padding: 6px;
 }
 
 body {
@@ -34,4 +36,5 @@ body {
 img {
   border: solid black;
   float: left;
+  padding: 5px;
 }
